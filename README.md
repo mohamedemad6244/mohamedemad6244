@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**mohamedemad6244/mohamedemad6244** is a ✨ _special_ ✨ repository becau# 💫 About Me:
+# 💫 About Me:
 🔥 Junior Data Scientist & Software Engineer skilled in Microsoft Dynamics 365 F&O, SQL Server, X++, Python, and Flask.<br>⚙️ Backend & Data Engineering: SQL optimization, SSRS reporting, and scalable API development.<br>🏢 Industry Experience: Internship at Elsewedy Electric working with Dynamics 365 F&O & enterprise reporting.<br>📚 Certified: Data Science & AI (DotPy) + Microsoft Data Engineering (DEPI).<br>🤖 AI Developer Trainee (NTI): Machine learning, deep learning, CNNs, and end-to-end model development.
 
 
@@ -27,16 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamedemad6244&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->se its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
